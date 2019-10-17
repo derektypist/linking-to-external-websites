@@ -5,17 +5,20 @@ body {
 }
 
 /* Heading */
+
 h1 {
     color: blue;
     text-align: center;
 }
 
 /* Paragraph */
+
 p {
     color: purple;
 }
 
 /* List Items */
+
 li a {
     text-decoration: none;
     color: green;
